@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "のびしろ",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-02T06:18:59.715164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "のびしろ",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_のびしろ_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "のびしろ - Nobishiro",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_のびしろ_-_Nobishiro_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "のびしろ – From THE FIRST TAKE",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_のびしろ_–_From_THE_FIRST_TAKE_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "のびしろ - From THE FIRST TAKE",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/04_のびしろ_-_From_THE_FIRST_TAKE_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "のびしろ - From THE FIRST TAKE - Nobishiro - From THE FIRST TAKE",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/05_のびしろ_-_From_THE_FIRST_TAKE_-_Nobishiro_-_From_THE_FIRST_TAKE_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "のびしろ - From THE FIRST TAKE19.",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/06_のびしろ_-_From_THE_FIRST_TAKE19._Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "のびしろ",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/07_のびしろ_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "のびしろ - Nobishiro",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/08_のびしろ_-_Nobishiro_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - のびしろ(NOBISHIRO)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/09_【MV】Creepy_Nuts_-_のびしろ(NOBISHIRO)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "のびしろ",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_のびしろ_CreepyNuts.txt"
+    }
+  ]
+}
